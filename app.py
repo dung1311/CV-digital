@@ -85,7 +85,7 @@ with col1:
     st.markdown('- Advanced mathematics class')
     st.subheader("""
     2022 - 2026 \n
-    HUST
+    Hanoi University Of Science and Technology
     """)
     st.markdown('- Computer Science')
     st.markdown('- CPA: 3.44/4.0')
