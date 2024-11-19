@@ -124,6 +124,6 @@ with col2:
 
     st.subheader('[BKAI-CV-Projects](https://github.com/dung1311/BKAI-CV-Projects)')
     st.markdown('- Leveraging computer vision to tackle practical challenges such as object counting, image depth estimation, and scene analysis.')
-    st.markdown('Continuously enhancing skills through hands-on problem-solving in computer vision.')
+    st.markdown('- Continuously enhancing skills through hands-on problem-solving in computer vision.')
 
 st.write('---')
